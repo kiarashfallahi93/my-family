@@ -1,5 +1,21 @@
 h1{
-    font-size: 10px;
-color:ivory;
+    font-size: 90px;
+color: rgb(163, 127, 255);
+
+}
+body{
+    background-color: black;
+}
+h2{
+    color:ivory;
+}
+h3{
+color: aquamarine;
+}
+h4{
+color: red;
+}
+h5{
+    color: blue;
 
 }
